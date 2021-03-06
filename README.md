@@ -4,18 +4,6 @@ Objective:
 
 The main objective of this project is to generate the captions by just taking the image as an input and producing relative captions.
 
-Introduction:
-
- 
-What caption can you give by looking at this picture?
-➔	California state university name board 
-➔	California state university east bay sign board in the bushes
-➔	White letter name board on red and black background.
-All of these captions are certainly related to this picture, and some other captions may also exist. But the point we wanted to make is that as human beings, it's too easy for us to just take a look at an image and explain it in a suitable language. 
-But can we write a computer program that takes an image as input and produces a relevant caption as output? Yes, it can be done using Deep Learning techniques.
-
- 
-
 How important is this problem in real life scenarios?
 Let’s see a few real-world situations where this can be implemented.
 
